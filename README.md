@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Webapp**
 
 ### **Description**
@@ -122,3 +123,32 @@ This project provides a comprehensive guide to deploying a simple web applicatio
 ---
 
 This `README.md` outlines all the key steps for deploying the web application using AWS services and GitHub. Let me know if any updates are needed!
+=======
+# ASD-predicting-ml-project
+It is a machine learning project to predict whether a child has Autism Spectrum Disorder or not.
+
+Here I have user Support vector machine which is one of most popular supervised machine learning algorithm.
+
+Install libraries-
+#pip install streamlit
+
+#pip install pandas
+
+#pip install sklearn
+
+pandas==1.1.4
+
+matplotlib==3.3.3
+
+seaborn==0.11.1
+
+numpy==1.18.5
+
+streamlit==0.72.0
+
+plotly==4.14.1
+
+Pillow==8.0.1
+
+scikit_learn==0.24.0
+>>>>>>> 1ec6205dd47850396107e8c895406ba3ec48491e
